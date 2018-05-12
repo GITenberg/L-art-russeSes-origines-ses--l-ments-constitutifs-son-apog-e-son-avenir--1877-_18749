@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
     - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18749#L-art-russeSes-origines-ses--l-ments-constitutifs-son-apog-e-son-avenir--1877-
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2006-07-03'
 gutenberg_type: Text
